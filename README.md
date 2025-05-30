@@ -18,5 +18,5 @@ This project implements a machine learning pipeline for classifying Iris flower 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nelsonjoseph14/mlops-iris-classifier
+   git clone https://github.com/nelsonjoseph14/mlops-iris-classifier.git
    cd mlops-iris-classifier
